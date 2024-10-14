@@ -7,4 +7,4 @@ The script unstakeLp.js is for those who would like to withdraw their LP tokens 
 ## Instructions
 1. `npm install`
 2. Fill in your accountId, private key and the amount you want to execute.
-2. Run the script: `node unstakeLp.js'
+2. Run the script: `node unstakeLp.js`
